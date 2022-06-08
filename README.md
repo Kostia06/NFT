@@ -1,4 +1,4 @@
 # NFT
-This is an NFT Application that combine mutiple pictures together using PIL and for gui it uses Pygame
+This is a nft maker app made using Python and modules: Pygame and PIL. The idea behind it is too make simple NFT images to sell later on. 
 
 © 2022 Kostia Ilnytskyi
